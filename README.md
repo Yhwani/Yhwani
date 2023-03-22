@@ -5,5 +5,5 @@
 <div align="center">
 <h2>백준 티어표</h2>
 </div></html>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
 
