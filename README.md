@@ -1,7 +1,7 @@
-<div align = center><h2>🌱Git Status</h2>
+<div align = center><h2>🌱Git Status</h2> </br>
 
 ![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhwani&langs_count=8)](https://github.com/Yhwani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhwani&langs_count=1)](https://github.com/Yhwani/github-readme-stats)
 </div>
 </br></br></br>
 
