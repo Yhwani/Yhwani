@@ -1,6 +1,6 @@
-<div align = center><h2>📬Git Status</h2>
+<div align = center><h2>🌱Git Status</h2>
 
-![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true&theme=radical)
+![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true)
   
 </div>
 </br></br></br>
