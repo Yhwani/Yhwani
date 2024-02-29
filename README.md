@@ -1,8 +1,33 @@
-<div align = center><h2>🌱Git Status</h2> </br>
 
-![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhwani&langs_count=4)](https://github.com/Yhwani/github-readme-stats)
-</div>
+
+![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true&theme=dark)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhwani&langs_count=5&layout=compact&theme=dark)](https://github.com/Yhwani/Yhwani)﻿
+
+---
+## Skills
+#### Frontend
+<!-- HTML, CSS, JS -->
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+#### Backend
+<!-- Python, Java, C, PHP -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+#### Backend Frameworks
+<!-- Spring, JPA -->
+![Spring](https://img.shields.io/badge/-spring-E4FF3F?style=flat-square&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-springboot-339933?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/-springsecurity-purple?style=flat-square&logo=springsecurity&logoColor=white)
+#### Databases
+<!-- MySQL, Oracle, SQLite-->
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 </br></br></br>
 
 <div align = center><h2>📬Contacts</h2>
@@ -10,21 +35,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;
 
 </br></br></br>
-
-<div align="center"><h2>🛠Skills</h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></br>
-
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-green?style=for-the-badge&logo=JPA&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=SQL&logoColor=white">
-</div>
-
-
-</br></br></br>
-
 
 <div align="center">
 <h2>🏆Rank</h2>
