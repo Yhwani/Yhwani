@@ -2,9 +2,16 @@
 
 ![YeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yhwani&show_icons=true&theme=dark)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yhwani&langs_count=5&layout=compact&theme=dark)](https://github.com/Yhwani/Yhwani)﻿
+</br>
 
----
-## Skills
+## About Me
+
+Hi! I'm YeongHwan Lee. I'm from Changwon University<br>
+**I'm interested in backend development, especially spring framework.
+I always think for people who will use my application.**
+</br></br>
+
+## 🔧Skills
 #### Frontend
 <!-- HTML, CSS, JS -->
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,17 +37,11 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 </br></br></br>
 
-<div align = center><h2>📬Contacts</h2>
-<a href="https://www.notion.so/Repository-19811670beab4ce0a20d9a733cc149c8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;
-
-</br></br></br>
-
-<div align="center">
-<h2>🏆Rank</h2>
+## 📬Contacts
+<a href="https://www.notion.so/Repository-19811670beab4ce0a20d9a733cc149c8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</br></br>
+## 🏆Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
-
-</div>
-</br></br>
 
