@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi! I'm YeongHwan Lee. I'm from Changwon University<br>
+Hi! I'm YeongHwan Lee. I graduated from Changwon University<br>
 **I'm interested in backend development, especially spring framework.
 I always think for people who will use my application.**
 </br></br>
