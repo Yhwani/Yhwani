@@ -45,3 +45,9 @@ I always think for people who will use my application.**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
 
+## graph
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yhwani&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a> 
+
