@@ -44,7 +44,7 @@ I always think for people who will use my application.**
 ## 🏆Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
-
+</br></br>
 ## graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
