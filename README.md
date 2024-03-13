@@ -10,7 +10,10 @@ Hi! I'm YeongHwan Lee. I graduated from Changwon University<br>
 **I'm interested in backend development, especially spring framework.
 I always think for people who will use my application.**
 </br></br>
-
+## 📬Contacts
+<a href="https://www.notion.so/Repository-19811670beab4ce0a20d9a733cc149c8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="mailto:iy833261@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</br></br>
 ## 🔧Skills
 #### Frontend
 <!-- HTML, CSS, JS -->
@@ -37,10 +40,6 @@ I always think for people who will use my application.**
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 </br></br></br>
 
-## 📬Contacts
-<a href="https://www.notion.so/Repository-19811670beab4ce0a20d9a733cc149c8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-<a href="mailto:iy833261@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</br></br>
 ## 🏆Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iy833261)](https://solved.ac/iy833261)
