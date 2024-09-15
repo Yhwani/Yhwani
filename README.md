@@ -12,8 +12,8 @@
   - GPA: 4.26 / 4.5
 
 - **KB IT's Your Life** (May 2024 ~ Oct 2024)
-  - KB It Academy
-  - Financial It Course
+  - KB IT Academy
+  - Financial IT FullStack Course
 
 <br>
 
@@ -39,6 +39,7 @@
 <!-- MySQL, Oracle-->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=MongoDB&logoColor=white)
 <br>
 
 ## 📬Contacts
